@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-04",
+  "productionUrl": "https://worthgoing-eight.vercel.app",
+  "queryDate": "2026-10-10",
+  "firstPass": [
+    {
+      "case": "london-music",
+      "apiLatencyMs": 8457,
+      "semanticLatencyMs": 5736,
+      "submitLatencyMs": 1641,
+      "completionLatencyMs": 5720,
+      "inputCount": 50,
+      "cacheHits": 0,
+      "batchCount": 1,
+      "httpRequestCount": 3,
+      "pollCount": 2
+    },
+    {
+      "case": "new-york-sports",
+      "apiLatencyMs": 7242,
+      "semanticLatencyMs": 5287,
+      "submitLatencyMs": 1467,
+      "completionLatencyMs": 5283,
+      "inputCount": 20,
+      "cacheHits": 0,
+      "batchCount": 1,
+      "httpRequestCount": 3,
+      "pollCount": 2
+    },
+    {
+      "case": "london-chinese-mobile",
+      "apiLatencyMs": 6680,
+      "semanticLatencyMs": 4948,
+      "submitLatencyMs": 927,
+      "completionLatencyMs": 4940,
+      "inputCount": 50,
+      "cacheHits": 0,
+      "batchCount": 1,
+      "httpRequestCount": 3,
+      "pollCount": 2
+    }
+  ],
+  "secondPass": [
+    {
+      "case": "london-music",
+      "apiLatencyMs": 6150,
+      "semanticLatencyMs": 4451,
+      "inputCount": 1,
+      "cacheHits": 49,
+      "batchCount": 1
+    },
+    {
+      "case": "new-york-sports",
+      "apiLatencyMs": 1599,
+      "semanticLatencyMs": 4,
+      "inputCount": 0,
+      "cacheHits": 20,
+      "batchCount": 0
+    },
+    {
+      "case": "london-chinese-mobile",
+      "apiLatencyMs": 2521,
+      "semanticLatencyMs": 8,
+      "inputCount": 0,
+      "cacheHits": 50,
+      "batchCount": 0
+    }
+  ],
+  "limitations": "Observed browser-to-production API response time, not a load benchmark. Cache is per-instance and best-effort; cold starts and upstream latency can vary. First pass initial loading/popup probes were corrected without changing application code; final UI assertions are in production-smoke.json."
+}

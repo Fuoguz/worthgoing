@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-04",
+  "method": "Independent retrieval of canonical official Ticketmaster pages after browser link-click tests",
+  "browserRestriction": "Local automated Chromium received HTTP 403 on ticketmaster.com and ticketmaster.co.uk; direct Node request received 401. No bypass or app URL substitution used.",
+  "sources": [
+    {
+      "case": "London live music",
+      "canonicalUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D",
+      "officialPageRetrieved": true,
+      "retrievalFreshness": "Reader reports crawled today",
+      "title": "IMEHO - An Intimate Experience with Erykah Badu",
+      "dateTimeShown": "2026-10-10 19:00",
+      "venueShown": "Blue Note London, London"
+    },
+    {
+      "case": "New York sports low-fit result",
+      "canonicalUrl": "https://www.ticketmaster.com/advik-devika-prat-new-york-new-york-10-10-2026/event/00006524C4E52BD0",
+      "officialPageRetrieved": true,
+      "retrievalFreshness": "Reader reports crawled two weeks ago; corroborates event identity, not current ticket inventory",
+      "title": "advik, Devika, prat.",
+      "dateTimeShown": "2026-10-10 18:00",
+      "venueShown": "Mercury Lounge, New York, NY"
+    },
+    {
+      "case": "London Chinese mobile",
+      "canonicalUrl": "https://theatre.ticketmaster.co.uk/book/1J55N-heated-rivalry-the-unauthorized-musical-parody/#perf=1J55N-5&date=2026-10-10&time=3.00PM",
+      "browserHttpStatus": 200,
+      "title": "Book tickets for Heated Rivalry: The Unauthorized Musical Parody",
+      "bodyContainsEventAndVenue": true
+    }
+  ],
+  "limitations": "Third-party browser accessibility depends on its protection and network. Current ticket availability or purchase was not tested. Canonical URLs remain unchanged in WorthGoing."
+}

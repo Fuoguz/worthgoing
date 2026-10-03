@@ -1,0 +1,245 @@
+{
+  "checkedAt": "2026-10-03T17:08:38.797Z",
+  "productionUrl": "https://worthgoing-eight.vercel.app",
+  "queryDate": "2026-10-10",
+  "queries": [
+    {
+      "name": "london-music",
+      "city": "London",
+      "interest": "live music",
+      "mobileViewport": false,
+      "landingHttpStatus": 200,
+      "apiHttpStatus": 200,
+      "responseLatencyMs": 6150,
+      "loadingVisible": true,
+      "dataMode": "live",
+      "error": null,
+      "ticketmaster": {
+        "rawCount": 50,
+        "normalizedCount": 50,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 100
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 1,
+        "inputCount": 1,
+        "cacheHits": 49,
+        "latencyMs": 4451,
+        "semanticCount": 50,
+        "fallbackCount": 0,
+        "submitLatencyMs": 946,
+        "completionLatencyMs": 4444,
+        "httpRequestCount": 3,
+        "pollCount": 2
+      },
+      "sourceNames": [
+        "Ticketmaster"
+      ],
+      "mockCount": 0,
+      "fallbackReasons": [],
+      "shown": 5,
+      "cards": [
+        {
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D"
+        },
+        {
+          "title": "Oliver!",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1H4KN-oliver/#perf=1H4KN-180&date=2026-10-10&time=2.30PM"
+        },
+        {
+          "title": "Belle Livingstone's 58th Street Country Club",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1HBYR-58th-street/#perf=1HBYR-15G&date=2026-10-10&time=1.00PM"
+        },
+        {
+          "title": "Abba Voyage - VIP Premium Package",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-H86&date=2026-10-10&time=3.00PM"
+        },
+        {
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1J55N-heated-rivalry-the-unauthorized-musical-parody/#perf=1J55N-5&date=2026-10-10&time=3.00PM"
+        }
+      ],
+      "breakdownVisible": true,
+      "sourceCheck": {
+        "expectedUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D",
+        "openedUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D",
+        "httpStatus": 403,
+        "title": "",
+        "bodyPreview": ""
+      },
+      "landingOverflow": false,
+      "resultsOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "name": "new-york-sports",
+      "city": "New York",
+      "interest": "sports",
+      "mobileViewport": false,
+      "landingHttpStatus": 200,
+      "apiHttpStatus": 200,
+      "responseLatencyMs": 1599,
+      "loadingVisible": true,
+      "dataMode": "live",
+      "error": null,
+      "ticketmaster": {
+        "rawCount": 23,
+        "normalizedCount": 23,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 23
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 0,
+        "inputCount": 0,
+        "cacheHits": 20,
+        "latencyMs": 4,
+        "semanticCount": 23,
+        "fallbackCount": 0
+      },
+      "sourceNames": [
+        "Ticketmaster"
+      ],
+      "mockCount": 0,
+      "fallbackReasons": [],
+      "shown": 5,
+      "cards": [
+        {
+          "title": "advik, Devika, prat.",
+          "score": "WorthGoing Score 49 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/advik-devika-prat-new-york-new-york-10-10-2026/event/00006524C4E52BD0"
+        },
+        {
+          "title": "Harry Styles: Together, Together",
+          "score": "WorthGoing Score 48 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/harry-styles-together-together-new-york-new-york-10-10-2026/event/3B00643505D182DF"
+        },
+        {
+          "title": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
+          "score": "WorthGoing Score 48 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/isaiah-falls-presents-lvrs-paradise-side-new-york-new-york-10-10-2026/event/000064CCE480C120"
+        },
+        {
+          "title": "Friends! The Musical Parody (New York)",
+          "score": "WorthGoing Score 47 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/friends-the-musical-parody-new-york-new-york-new-york-10-10-2026/event/300064F794CB388B"
+        },
+        {
+          "title": "Reggaetón Y2K (18+)",
+          "score": "WorthGoing Score 47 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/reggaeton-y2k-18-new-york-new-york-10-10-2026/event/0000652AF16C4477"
+        }
+      ],
+      "breakdownVisible": true,
+      "sourceCheck": {
+        "expectedUrl": "https://www.ticketmaster.com/advik-devika-prat-new-york-new-york-10-10-2026/event/00006524C4E52BD0",
+        "openedUrl": "https://www.ticketmaster.com/advik-devika-prat-new-york-new-york-10-10-2026/event/00006524C4E52BD0",
+        "httpStatus": 403,
+        "title": "",
+        "bodyPreview": ""
+      },
+      "landingOverflow": false,
+      "resultsOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "name": "london-chinese-mobile",
+      "city": "London",
+      "interest": "城市探索、建筑、艺术展览",
+      "mobileViewport": true,
+      "landingHttpStatus": 200,
+      "apiHttpStatus": 200,
+      "responseLatencyMs": 2521,
+      "loadingVisible": true,
+      "dataMode": "live",
+      "error": null,
+      "ticketmaster": {
+        "rawCount": 50,
+        "normalizedCount": 50,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 100
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 0,
+        "inputCount": 0,
+        "cacheHits": 50,
+        "latencyMs": 8,
+        "semanticCount": 50,
+        "fallbackCount": 0
+      },
+      "sourceNames": [
+        "Ticketmaster"
+      ],
+      "mockCount": 0,
+      "fallbackReasons": [],
+      "shown": 5,
+      "cards": [
+        {
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "score": "WorthGoing Score 52 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1J55N-heated-rivalry-the-unauthorized-musical-parody/#perf=1J55N-5&date=2026-10-10&time=3.00PM"
+        },
+        {
+          "title": "Witness for the Prosecution",
+          "score": "WorthGoing Score 52 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1HW10-witness-for-the-prosecution-county-hall/#perf=1HW10-7&date=2026-10-10&time=2.30PM"
+        },
+        {
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D"
+        },
+        {
+          "title": "Faulty Towers the Dining Experience",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/#perf=1GLTR-20W&date=2026-10-10&time=1.30PM"
+        },
+        {
+          "title": "Oliver!",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1H4KN-oliver/#perf=1H4KN-180&date=2026-10-10&time=2.30PM"
+        }
+      ],
+      "breakdownVisible": true,
+      "sourceCheck": {
+        "expectedUrl": "https://theatre.ticketmaster.co.uk/book/1J55N-heated-rivalry-the-unauthorized-musical-parody/#perf=1J55N-5&date=2026-10-10&time=3.00PM",
+        "openedUrl": "https://theatre.ticketmaster.co.uk/book/1J55N-heated-rivalry-the-unauthorized-musical-parody/#perf=1J55N-5&date=2026-10-10&time=3.00PM",
+        "httpStatus": 200,
+        "title": "Book tickets for Heated Rivalry: The Unauthorized Musical Parody",
+        "bodyPreview": "Heated Rivalry: The Unauthorized Musical Parody\n Underbelly Boulevard Soho, London\n    \n    "
+      },
+      "landingOverflow": false,
+      "resultsOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    }
+  ]
+}
