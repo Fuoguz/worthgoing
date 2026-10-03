@@ -1,0 +1,18 @@
+{
+  "lint": "passed",
+  "productionBuild": "passed",
+  "unitTests": { "passed": 38, "existingScoring": 12, "ticketmaster": 26 },
+  "browserTests": { "passed": 16, "existing": 12, "new": 4, "skipped": 0 },
+  "security": {
+    "scannedFiles": 826,
+    "clientFiles": 45,
+    "secretOutsideLocalEnv": [],
+    "ignoreConfigured": true,
+    "exampleClean": true,
+    "gitTracked": "Workspace is not a Git repository; no tracked files exist.",
+    "clientSecretCheck": "passed",
+    "cacheFinding": "Three ignored Turbopack SST caches retained credential bytes before remediation. Persistent caches are now disabled and credential bytes were redacted; post-build scan passed."
+  },
+  "liveQueries": "docs/live-query-validation.json",
+  "scope": "Ticketmaster only; no additional API, LLM, embeddings, authentication, database or map integration."
+}

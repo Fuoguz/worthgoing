@@ -1,0 +1,2591 @@
+{
+  "checkedAt": "2026-10-03T05:07:03.995Z",
+  "queryDate": "2026-10-10",
+  "window": "12:00–23:30 local",
+  "queries": [
+    {
+      "city": "London",
+      "device": "desktop Chromium",
+      "category": "sports",
+      "interest": "football, baseball, live sports",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 50,
+        "normalizedCount": 50,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 100
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 1,
+        "inputCount": 50,
+        "cacheHits": 0,
+        "latencyMs": 7102,
+        "semanticCount": 50,
+        "fallbackCount": 0,
+        "submitLatencyMs": 2058,
+        "completionLatencyMs": 7095,
+        "httpRequestCount": 3,
+        "pollCount": 2
+      },
+      "userFlowLatencyMs": 9486,
+      "shown": 5,
+      "uniqueIds": 50,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "Saracens V Bristol Bears",
+          "score": "WorthGoing Score 49 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.eticketing.co.uk/saracens/EDP/Event/Index/527?utm_source=Ticketmaster&utm_medium=Shell-Event&utm_campaign=cl:Saracens-chl:Shell-Event-v.Bris-bears"
+        },
+        {
+          "title": "Misfits Boxing: Joey Essex vs Dapper Laughs (Daniel O'Reilly)",
+          "score": "WorthGoing Score 47 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.co.uk/misfits-boxing-joey-essex-vs-dapper-london-10-10-2026/event/35006536B18A8A80"
+        },
+        {
+          "title": "Disney's THE LION KING",
+          "score": "WorthGoing Score 46 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1DR6R-lyceum-theatre-london-disneys-the-lion-king/#perf=1DR6R-59X&date=2026-10-10&time=2.30PM"
+        },
+        {
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "score": "WorthGoing Score 46 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D"
+        },
+        {
+          "title": "Mamma Mia!",
+          "score": "WorthGoing Score 46 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1H4KU-mamma-mia-sept-25/#perf=1H4KU-188&date=2026-10-10&time=3.00PM"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:1AdfZ_eGkDHFIl7",
+          "title": "Mamma Mia! The Party",
+          "fit": 0,
+          "similarity": 0.36286332370407903,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62oA1JZt",
+          "title": "David Bowie: You're Not Alone",
+          "fit": 0,
+          "similarity": 0.3625583592569575,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G6uMXH1RK",
+          "title": "Belle Livingstone's 58th Street Country Club",
+          "fit": 0,
+          "similarity": 0.38065220149623463,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R0mNOP",
+          "title": "Stranger Things: The First Shadow",
+          "fit": 0,
+          "similarity": 0.37233014043167917,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65C-8wcC",
+          "title": "Faulty Towers the Dining Experience",
+          "fit": 0,
+          "similarity": 0.36736148380063693,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R6G31N",
+          "title": "My Neighbour Totoro",
+          "fit": 0,
+          "similarity": 0.37110482565092767,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZk8YGkdmXUo-",
+          "title": "Paddington the Musical",
+          "fit": 0,
+          "similarity": 0.33497754146870085,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkMjVL9j",
+          "title": "Cabaret At The Kit Kat Club",
+          "fit": 0,
+          "similarity": 0.337469919226662,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZbSGkDz950S",
+          "title": "Matilda The Musical",
+          "fit": 0,
+          "similarity": 0.3312918741093226,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZk3eGkd4sMAQ",
+          "title": "Shakespeare's Globe - Much Ado About Nothing",
+          "fit": 0,
+          "similarity": 0.3932316045301755,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:11uOvNj-rvoAvC",
+          "title": "Disney's THE LION KING",
+          "fit": 0,
+          "similarity": 0.3672142924605132,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65siEvpo",
+          "title": "Oliver!",
+          "fit": 0,
+          "similarity": 0.3910650514717823,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65LPy0OF",
+          "title": "Sinatra the Musical",
+          "fit": 0,
+          "similarity": 0.31454014083096987,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65m0f_uQ",
+          "title": "The Devil Wears Prada",
+          "fit": 0,
+          "similarity": 0.3488257351417566,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62L6L42M",
+          "title": "Martin Guerre",
+          "fit": 0,
+          "similarity": 0.34359573582067554,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65QDKwHu",
+          "title": "Avenue Q",
+          "fit": 0,
+          "similarity": 0.3301307445048407,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfkGkdJTxIh",
+          "title": "Million Dollar Quartet",
+          "fit": 0,
+          "similarity": 0.35859975092841956,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZko0GkdKN6i4",
+          "title": "The Hunger Games On Stage",
+          "fit": 0,
+          "similarity": 0.37678734833934646,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkupGkdxPnme",
+          "title": "The Play That Goes Wrong",
+          "fit": 0,
+          "similarity": 0.3596537941303537,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkGyGkdfsBik",
+          "title": "Wicked",
+          "fit": 0,
+          "similarity": 0.3345843323310687,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGkTFx7ns",
+          "title": "Les Miserables",
+          "fit": 0,
+          "similarity": 0.3759810529923872,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGksdiAmb",
+          "title": "Hamilton",
+          "fit": 0,
+          "similarity": 0.3579136661637172,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZbgGkDvLQkn",
+          "title": "Beetlejuice",
+          "fit": 0,
+          "similarity": 0.33208245265511743,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkUUCBTN",
+          "title": "Moulin Rouge The Musical",
+          "fit": 0,
+          "similarity": 0.35795383037862016,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfyGkeJnz6Q",
+          "title": "The Book Of Mormon",
+          "fit": 0,
+          "similarity": 0.3566558741045587,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkoPGkdCHkaL",
+          "title": "Come Alive! The Greatest Showman Circus Spectacular",
+          "fit": 0,
+          "similarity": 0.384203198260047,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3Ougb-c",
+          "title": "Affluenza",
+          "fit": 0,
+          "similarity": 0.3697728327299722,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_6twFvpF",
+          "title": "Witness for the Prosecution",
+          "fit": 0,
+          "similarity": 0.3564011502828372,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G62xf0Sky",
+          "title": "Mamma Mia!",
+          "fit": 0,
+          "similarity": 0.35909115136407316,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkRVaFuP",
+          "title": "Abba Voyage - VIP Premium Package",
+          "fit": 0,
+          "similarity": 0.3977459668382888,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkmH_ASw",
+          "title": "ABBA Voyage",
+          "fit": 0,
+          "similarity": 0.37139531352488503,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkzK6JJP",
+          "title": "From The Heart",
+          "fit": 0,
+          "similarity": 0.3638171827566403,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_7GkSIdJtg",
+          "title": "Burlesque",
+          "fit": 0,
+          "similarity": 0.33852268313885037,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfAGkeMSKuR",
+          "title": "The Mousetrap",
+          "fit": 0,
+          "similarity": 0.3643728174343026,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfNGkewK5QY",
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "fit": 0,
+          "similarity": 0.3902502014375625,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3DHlfzG",
+          "title": "Titanique",
+          "fit": 0,
+          "similarity": 0.34662829674388207,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkBgMStP",
+          "title": "Oh Mary!",
+          "fit": 0,
+          "similarity": 0.36008544000897347,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfxGketX0lO",
+          "title": "Inala",
+          "fit": 0,
+          "similarity": 0.3244009031696824,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkueGkeUvBGJ",
+          "title": "SIX The Musical",
+          "fit": 0,
+          "similarity": 0.35333861829730934,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_KGkMoHfTo",
+          "title": "Magic Mike Live!",
+          "fit": 0,
+          "similarity": 0.38553093117156645,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkugGkesAbk2",
+          "title": "Amon Amarth",
+          "fit": 0,
+          "similarity": 0.3530896495991306,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_8Gkw0Xwr7",
+          "title": "Saracens V Bristol Bears",
+          "fit": 13,
+          "similarity": 0.45158608346565654,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfUGkesxInZ",
+          "title": "Misfits Boxing: Joey Essex vs Dapper Laughs (Daniel O'Reilly)",
+          "fit": 5,
+          "similarity": 0.42076843149442017,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZ_6KH3kN5",
+          "title": "Fear Factory",
+          "fit": 0,
+          "similarity": 0.32609685238797553,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOg-",
+          "title": "Myles Sanko",
+          "fit": 0,
+          "similarity": 0.36816925878229045,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOgW",
+          "title": "Myles Sanko - Restaurant",
+          "fit": 0,
+          "similarity": 0.3609421326036295,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_eGkDH4Fl-",
+          "title": "Mamma Mia! The Party",
+          "fit": 0,
+          "similarity": 0.36286332370407903,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZku3Gkd96avn",
+          "title": "Westlife 25 - The Anniversary World Tour",
+          "fit": 1,
+          "similarity": 0.40501971816366855,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZbiMgk-So",
+          "title": "Serena Terry: Therapy",
+          "fit": 0,
+          "similarity": 0.3279826578330123,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17FYv0G62Va9ogc",
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "fit": 0,
+          "similarity": 0.3814670383848946,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "city": "London",
+      "device": "desktop Chromium",
+      "category": "music",
+      "interest": "live music, jazz and soul concerts",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 50,
+        "normalizedCount": 50,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 100
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 1,
+        "inputCount": 1,
+        "cacheHits": 49,
+        "latencyMs": 19117,
+        "semanticCount": 50,
+        "fallbackCount": 0,
+        "submitLatencyMs": 1089,
+        "completionLatencyMs": 19113,
+        "httpRequestCount": 7,
+        "pollCount": 6
+      },
+      "userFlowLatencyMs": 22248,
+      "shown": 5,
+      "uniqueIds": 50,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "Belle Livingstone's 58th Street Country Club",
+          "score": "WorthGoing Score 56 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1HBYR-58th-street/#perf=1HBYR-15G&date=2026-10-10&time=1.00PM"
+        },
+        {
+          "title": "Myles Sanko",
+          "score": "WorthGoing Score 55 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketweb.uk/event/myles-sanko-jazz-cafe-tickets/14158174?REFERRAL_ID=tmfeed"
+        },
+        {
+          "title": "Myles Sanko - Restaurant",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketweb.uk/event/myles-sanko-restaurant-jazz-cafe-tickets/14158164?REFERRAL_ID=tmfeed"
+        },
+        {
+          "title": "Abba Voyage - VIP Premium Package",
+          "score": "WorthGoing Score 53 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-H86&date=2026-10-10&time=3.00PM"
+        },
+        {
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:1AdfZ_eGkDHFIl7",
+          "title": "Mamma Mia! The Party",
+          "fit": 6,
+          "similarity": 0.422672380425201,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62oA1JZt",
+          "title": "David Bowie: You're Not Alone",
+          "fit": 14,
+          "similarity": 0.4551976959920217,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G6uMXH1RK",
+          "title": "Belle Livingstone's 58th Street Country Club",
+          "fit": 31,
+          "similarity": 0.5232595849538662,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R0mNOP",
+          "title": "Stranger Things: The First Shadow",
+          "fit": 6,
+          "similarity": 0.4224472638426049,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65C-8wcC",
+          "title": "Faulty Towers the Dining Experience",
+          "fit": 0,
+          "similarity": 0.39528851039223295,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R6G31N",
+          "title": "My Neighbour Totoro",
+          "fit": 1,
+          "similarity": 0.40499257061467286,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZk8YGkdmXUo-",
+          "title": "Paddington the Musical",
+          "fit": 3,
+          "similarity": 0.41183202021922766,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkMjVL9j",
+          "title": "Cabaret At The Kit Kat Club",
+          "fit": 0,
+          "similarity": 0.39882582288007495,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZbSGkDz950S",
+          "title": "Matilda The Musical",
+          "fit": 0,
+          "similarity": 0.3986149289005771,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZk3eGkd4sMAQ",
+          "title": "Shakespeare's Globe - Much Ado About Nothing",
+          "fit": 0,
+          "similarity": 0.39878536532112524,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:11uOvNj-rvoAvC",
+          "title": "Disney's THE LION KING",
+          "fit": 2,
+          "similarity": 0.406576191433474,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65siEvpo",
+          "title": "Oliver!",
+          "fit": 13,
+          "similarity": 0.4517902090898115,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65LPy0OF",
+          "title": "Sinatra the Musical",
+          "fit": 0,
+          "similarity": 0.40196831098998004,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65m0f_uQ",
+          "title": "The Devil Wears Prada",
+          "fit": 6,
+          "similarity": 0.42422866909881723,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62L6L42M",
+          "title": "Martin Guerre",
+          "fit": 15,
+          "similarity": 0.46182970287550373,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65QDKwHu",
+          "title": "Avenue Q",
+          "fit": 6,
+          "similarity": 0.4239847707874721,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfkGkdJTxIh",
+          "title": "Million Dollar Quartet",
+          "fit": 8,
+          "similarity": 0.4326219431969718,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZko0GkdKN6i4",
+          "title": "The Hunger Games On Stage",
+          "fit": 0,
+          "similarity": 0.371701126086662,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkupGkdxPnme",
+          "title": "The Play That Goes Wrong",
+          "fit": 0,
+          "similarity": 0.38898380448154213,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkGyGkdfsBik",
+          "title": "Wicked",
+          "fit": 6,
+          "similarity": 0.42466588875396777,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGkTFx7ns",
+          "title": "Les Miserables",
+          "fit": 8,
+          "similarity": 0.43205397898531717,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGksdiAmb",
+          "title": "Hamilton",
+          "fit": 4,
+          "similarity": 0.4167571659164642,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZbgGkDvLQkn",
+          "title": "Beetlejuice",
+          "fit": 6,
+          "similarity": 0.4240556295465906,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkUUCBTN",
+          "title": "Moulin Rouge The Musical",
+          "fit": 12,
+          "similarity": 0.44624410438535667,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfyGkeJnz6Q",
+          "title": "The Book Of Mormon",
+          "fit": 2,
+          "similarity": 0.4067431257905064,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkoPGkdCHkaL",
+          "title": "Come Alive! The Greatest Showman Circus Spectacular",
+          "fit": 13,
+          "similarity": 0.4530733038552534,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3Ougb-c",
+          "title": "Affluenza",
+          "fit": 4,
+          "similarity": 0.4150045289942381,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_6twFvpF",
+          "title": "Witness for the Prosecution",
+          "fit": 2,
+          "similarity": 0.4080257206139465,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G62xf0Sky",
+          "title": "Mamma Mia!",
+          "fit": 4,
+          "similarity": 0.4167984239520762,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkRVaFuP",
+          "title": "Abba Voyage - VIP Premium Package",
+          "fit": 23,
+          "similarity": 0.4929050743800995,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkmH_ASw",
+          "title": "ABBA Voyage",
+          "fit": 17,
+          "similarity": 0.4683806098189677,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkzK6JJP",
+          "title": "From The Heart",
+          "fit": 11,
+          "similarity": 0.44421519643512447,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_7GkSIdJtg",
+          "title": "Burlesque",
+          "fit": 6,
+          "similarity": 0.42577664656101916,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfAGkeMSKuR",
+          "title": "The Mousetrap",
+          "fit": 0,
+          "similarity": 0.3999854660619172,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfNGkewK5QY",
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "fit": 11,
+          "similarity": 0.44479392368314724,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3DHlfzG",
+          "title": "Titanique",
+          "fit": 3,
+          "similarity": 0.41323574010793623,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkBgMStP",
+          "title": "Oh Mary!",
+          "fit": 0,
+          "similarity": 0.39546325322881837,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfxGketX0lO",
+          "title": "Inala",
+          "fit": 0,
+          "similarity": 0.3734742714141548,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkueGkeUvBGJ",
+          "title": "SIX The Musical",
+          "fit": 11,
+          "similarity": 0.4456901995637792,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_KGkMoHfTo",
+          "title": "Magic Mike Live!",
+          "fit": 10,
+          "similarity": 0.43811136813063445,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkugGkesAbk2",
+          "title": "Amon Amarth",
+          "fit": 15,
+          "similarity": 0.4616571191130358,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_8Gkw0Xwr7",
+          "title": "Saracens V Bristol Bears",
+          "fit": 0,
+          "similarity": 0.3880465175405185,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfUGkesxInZ",
+          "title": "Misfits Boxing: Joey Essex vs Dapper Laughs (Daniel O'Reilly)",
+          "fit": 0,
+          "similarity": 0.37622460624284804,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZ_6KH3kN5",
+          "title": "Fear Factory",
+          "fit": 0,
+          "similarity": 0.39892237220008353,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOg-",
+          "title": "Myles Sanko",
+          "fit": 27,
+          "similarity": 0.5090218990701849,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOgW",
+          "title": "Myles Sanko - Restaurant",
+          "fit": 25,
+          "similarity": 0.4984347662093087,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_eGkDH4Fl-",
+          "title": "Mamma Mia! The Party",
+          "fit": 6,
+          "similarity": 0.422672380425201,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZku3Gkd96avn",
+          "title": "Westlife 25 - The Anniversary World Tour",
+          "fit": 16,
+          "similarity": 0.46284307125759033,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZbiMgk-So",
+          "title": "Serena Terry: Therapy",
+          "fit": 0,
+          "similarity": 0.37274709006103074,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17FYv0G62Va9ogc",
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "fit": 15,
+          "similarity": 0.46063663152012,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "city": "London",
+      "device": "desktop Chromium",
+      "category": "art",
+      "interest": "art exhibitions, architecture and museums",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 50,
+        "normalizedCount": 50,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 100
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 1,
+        "inputCount": 1,
+        "cacheHits": 49,
+        "latencyMs": 23163,
+        "semanticCount": 50,
+        "fallbackCount": 0,
+        "submitLatencyMs": 779,
+        "completionLatencyMs": 23158,
+        "httpRequestCount": 8,
+        "pollCount": 7
+      },
+      "userFlowLatencyMs": 25328,
+      "shown": 5,
+      "uniqueIds": 50,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "Come Alive! The Greatest Showman Circus Spectacular",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1GPNU-come-alive/#perf=1GPNU-20Y&date=2026-10-10&time=2.30PM"
+        },
+        {
+          "title": "Faulty Towers the Dining Experience",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/#perf=1GLTR-20W&date=2026-10-10&time=1.30PM"
+        },
+        {
+          "title": "Stranger Things: The First Shadow",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1FHDY-stranger-things-the-first-shadow/#perf=1FHDY-23K&date=2026-10-10&time=1.00PM"
+        },
+        {
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1J55N-heated-rivalry-the-unauthorized-musical-parody/#perf=1J55N-5&date=2026-10-10&time=3.00PM"
+        },
+        {
+          "title": "Million Dollar Quartet",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1J8MU-million-dollar-quartet/#perf=1J8MU-17&date=2026-10-10&time=2.30PM"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:1AdfZ_eGkDHFIl7",
+          "title": "Mamma Mia! The Party",
+          "fit": 6,
+          "similarity": 0.42455106523716,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62oA1JZt",
+          "title": "David Bowie: You're Not Alone",
+          "fit": 13,
+          "similarity": 0.4504778480994187,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G6uMXH1RK",
+          "title": "Belle Livingstone's 58th Street Country Club",
+          "fit": 0,
+          "similarity": 0.38756762394158717,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R0mNOP",
+          "title": "Stranger Things: The First Shadow",
+          "fit": 13,
+          "similarity": 0.4503424270802659,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65C-8wcC",
+          "title": "Faulty Towers the Dining Experience",
+          "fit": 13,
+          "similarity": 0.4524106643023366,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R6G31N",
+          "title": "My Neighbour Totoro",
+          "fit": 5,
+          "similarity": 0.4215768942173537,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZk8YGkdmXUo-",
+          "title": "Paddington the Musical",
+          "fit": 0,
+          "similarity": 0.400650406124462,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkMjVL9j",
+          "title": "Cabaret At The Kit Kat Club",
+          "fit": 1,
+          "similarity": 0.4031855773619987,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZbSGkDz950S",
+          "title": "Matilda The Musical",
+          "fit": 0,
+          "similarity": 0.40197813851590447,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZk3eGkd4sMAQ",
+          "title": "Shakespeare's Globe - Much Ado About Nothing",
+          "fit": 8,
+          "similarity": 0.4323450737323319,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:11uOvNj-rvoAvC",
+          "title": "Disney's THE LION KING",
+          "fit": 6,
+          "similarity": 0.4255083623424219,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65siEvpo",
+          "title": "Oliver!",
+          "fit": 10,
+          "similarity": 0.4380672937015667,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65LPy0OF",
+          "title": "Sinatra the Musical",
+          "fit": 0,
+          "similarity": 0.393935684374931,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65m0f_uQ",
+          "title": "The Devil Wears Prada",
+          "fit": 9,
+          "similarity": 0.43589662852825073,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62L6L42M",
+          "title": "Martin Guerre",
+          "fit": 12,
+          "similarity": 0.44652602392136354,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65QDKwHu",
+          "title": "Avenue Q",
+          "fit": 5,
+          "similarity": 0.4214643883598731,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfkGkdJTxIh",
+          "title": "Million Dollar Quartet",
+          "fit": 13,
+          "similarity": 0.45290043168204924,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZko0GkdKN6i4",
+          "title": "The Hunger Games On Stage",
+          "fit": 0,
+          "similarity": 0.3984621297498824,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkupGkdxPnme",
+          "title": "The Play That Goes Wrong",
+          "fit": 8,
+          "similarity": 0.4309181490511888,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkGyGkdfsBik",
+          "title": "Wicked",
+          "fit": 8,
+          "similarity": 0.4338746953787483,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGkTFx7ns",
+          "title": "Les Miserables",
+          "fit": 7,
+          "similarity": 0.429334169497508,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGksdiAmb",
+          "title": "Hamilton",
+          "fit": 2,
+          "similarity": 0.4078861310493581,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZbgGkDvLQkn",
+          "title": "Beetlejuice",
+          "fit": 2,
+          "similarity": 0.4096795554691528,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkUUCBTN",
+          "title": "Moulin Rouge The Musical",
+          "fit": 8,
+          "similarity": 0.43130895442936973,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfyGkeJnz6Q",
+          "title": "The Book Of Mormon",
+          "fit": 4,
+          "similarity": 0.41577073421171096,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkoPGkdCHkaL",
+          "title": "Come Alive! The Greatest Showman Circus Spectacular",
+          "fit": 16,
+          "similarity": 0.46261620632769573,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3Ougb-c",
+          "title": "Affluenza",
+          "fit": 11,
+          "similarity": 0.44480651109899416,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_6twFvpF",
+          "title": "Witness for the Prosecution",
+          "fit": 11,
+          "similarity": 0.44592905167748176,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G62xf0Sky",
+          "title": "Mamma Mia!",
+          "fit": 6,
+          "similarity": 0.4259891777139039,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkRVaFuP",
+          "title": "Abba Voyage - VIP Premium Package",
+          "fit": 9,
+          "similarity": 0.43710223020285366,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkmH_ASw",
+          "title": "ABBA Voyage",
+          "fit": 8,
+          "similarity": 0.4326335670352213,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkzK6JJP",
+          "title": "From The Heart",
+          "fit": 6,
+          "similarity": 0.4222494969720023,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_7GkSIdJtg",
+          "title": "Burlesque",
+          "fit": 18,
+          "similarity": 0.47163131690816695,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfAGkeMSKuR",
+          "title": "The Mousetrap",
+          "fit": 8,
+          "similarity": 0.4332530060026758,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfNGkewK5QY",
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "fit": 12,
+          "similarity": 0.44959883081159535,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3DHlfzG",
+          "title": "Titanique",
+          "fit": 5,
+          "similarity": 0.4183801948790639,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkBgMStP",
+          "title": "Oh Mary!",
+          "fit": 6,
+          "similarity": 0.4234972014323089,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfxGketX0lO",
+          "title": "Inala",
+          "fit": 9,
+          "similarity": 0.43725441557932887,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkueGkeUvBGJ",
+          "title": "SIX The Musical",
+          "fit": 8,
+          "similarity": 0.4308975793545585,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_KGkMoHfTo",
+          "title": "Magic Mike Live!",
+          "fit": 3,
+          "similarity": 0.41159912021899037,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkugGkesAbk2",
+          "title": "Amon Amarth",
+          "fit": 6,
+          "similarity": 0.42588852532231053,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_8Gkw0Xwr7",
+          "title": "Saracens V Bristol Bears",
+          "fit": 0,
+          "similarity": 0.363604817752456,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfUGkesxInZ",
+          "title": "Misfits Boxing: Joey Essex vs Dapper Laughs (Daniel O'Reilly)",
+          "fit": 0,
+          "similarity": 0.38838072750874575,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZ_6KH3kN5",
+          "title": "Fear Factory",
+          "fit": 0,
+          "similarity": 0.37302992196039636,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOg-",
+          "title": "Myles Sanko",
+          "fit": 0,
+          "similarity": 0.37889171930635795,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOgW",
+          "title": "Myles Sanko - Restaurant",
+          "fit": 0,
+          "similarity": 0.3719308122308434,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_eGkDH4Fl-",
+          "title": "Mamma Mia! The Party",
+          "fit": 6,
+          "similarity": 0.42455106523716,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZku3Gkd96avn",
+          "title": "Westlife 25 - The Anniversary World Tour",
+          "fit": 0,
+          "similarity": 0.3821048594229026,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZbiMgk-So",
+          "title": "Serena Terry: Therapy",
+          "fit": 0,
+          "similarity": 0.3912375781632347,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17FYv0G62Va9ogc",
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "fit": 3,
+          "similarity": 0.41192490658140574,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "city": "London",
+      "device": "desktop Chromium",
+      "category": "chinese",
+      "interest": "城市探索、建筑、艺术展览",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 50,
+        "normalizedCount": 50,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 100
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 1,
+        "inputCount": 1,
+        "cacheHits": 49,
+        "latencyMs": 29695,
+        "semanticCount": 50,
+        "fallbackCount": 0,
+        "submitLatencyMs": 1215,
+        "completionLatencyMs": 29691,
+        "httpRequestCount": 10,
+        "pollCount": 9
+      },
+      "userFlowLatencyMs": 32799,
+      "shown": 5,
+      "uniqueIds": 50,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "score": "WorthGoing Score 52 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1J55N-heated-rivalry-the-unauthorized-musical-parody/#perf=1J55N-5&date=2026-10-10&time=3.00PM"
+        },
+        {
+          "title": "Witness for the Prosecution",
+          "score": "WorthGoing Score 52 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1HW10-witness-for-the-prosecution-county-hall/#perf=1HW10-7&date=2026-10-10&time=2.30PM"
+        },
+        {
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D"
+        },
+        {
+          "title": "Faulty Towers the Dining Experience",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/#perf=1GLTR-20W&date=2026-10-10&time=1.30PM"
+        },
+        {
+          "title": "Oliver!",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://theatre.ticketmaster.co.uk/book/1H4KN-oliver/#perf=1H4KN-180&date=2026-10-10&time=2.30PM"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:1AdfZ_eGkDHFIl7",
+          "title": "Mamma Mia! The Party",
+          "fit": 9,
+          "similarity": 0.435593701316364,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62oA1JZt",
+          "title": "David Bowie: You're Not Alone",
+          "fit": 22,
+          "similarity": 0.48657393284184847,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G6uMXH1RK",
+          "title": "Belle Livingstone's 58th Street Country Club",
+          "fit": 7,
+          "similarity": 0.42733276966323386,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R0mNOP",
+          "title": "Stranger Things: The First Shadow",
+          "fit": 16,
+          "similarity": 0.46440575759759567,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65C-8wcC",
+          "title": "Faulty Towers the Dining Experience",
+          "fit": 16,
+          "similarity": 0.4644244102518809,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65R6G31N",
+          "title": "My Neighbour Totoro",
+          "fit": 10,
+          "similarity": 0.4404013106846628,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZk8YGkdmXUo-",
+          "title": "Paddington the Musical",
+          "fit": 0,
+          "similarity": 0.3991971732304613,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkMjVL9j",
+          "title": "Cabaret At The Kit Kat Club",
+          "fit": 3,
+          "similarity": 0.41213059333222035,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZbSGkDz950S",
+          "title": "Matilda The Musical",
+          "fit": 0,
+          "similarity": 0.39968059888072954,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZk3eGkd4sMAQ",
+          "title": "Shakespeare's Globe - Much Ado About Nothing",
+          "fit": 13,
+          "similarity": 0.4522134750019538,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:11uOvNj-rvoAvC",
+          "title": "Disney's THE LION KING",
+          "fit": 6,
+          "similarity": 0.42586911183297255,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G65siEvpo",
+          "title": "Oliver!",
+          "fit": 14,
+          "similarity": 0.45739819259705927,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65LPy0OF",
+          "title": "Sinatra the Musical",
+          "fit": 0,
+          "similarity": 0.3925576607782132,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uOv0G65m0f_uQ",
+          "title": "The Devil Wears Prada",
+          "fit": 9,
+          "similarity": 0.4366876555630921,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G62L6L42M",
+          "title": "Martin Guerre",
+          "fit": 17,
+          "similarity": 0.4661138466594254,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17uYv0G65QDKwHu",
+          "title": "Avenue Q",
+          "fit": 5,
+          "similarity": 0.41922232411876786,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfkGkdJTxIh",
+          "title": "Million Dollar Quartet",
+          "fit": 12,
+          "similarity": 0.44656565991569036,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZko0GkdKN6i4",
+          "title": "The Hunger Games On Stage",
+          "fit": 9,
+          "similarity": 0.43713600859450397,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkupGkdxPnme",
+          "title": "The Play That Goes Wrong",
+          "fit": 11,
+          "similarity": 0.44533574647297575,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkGyGkdfsBik",
+          "title": "Wicked",
+          "fit": 9,
+          "similarity": 0.4364176419805651,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGkTFx7ns",
+          "title": "Les Miserables",
+          "fit": 10,
+          "similarity": 0.43842456774183786,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_oGksdiAmb",
+          "title": "Hamilton",
+          "fit": 4,
+          "similarity": 0.4153492276767435,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZbgGkDvLQkn",
+          "title": "Beetlejuice",
+          "fit": 6,
+          "similarity": 0.42236877307583404,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_oGkUUCBTN",
+          "title": "Moulin Rouge The Musical",
+          "fit": 4,
+          "similarity": 0.41537317246224537,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfyGkeJnz6Q",
+          "title": "The Book Of Mormon",
+          "fit": 4,
+          "similarity": 0.4154340610551616,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkoPGkdCHkaL",
+          "title": "Come Alive! The Greatest Showman Circus Spectacular",
+          "fit": 16,
+          "similarity": 0.4629404208717876,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3Ougb-c",
+          "title": "Affluenza",
+          "fit": 12,
+          "similarity": 0.4496085932948654,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_6twFvpF",
+          "title": "Witness for the Prosecution",
+          "fit": 17,
+          "similarity": 0.46648768319390715,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17u8v0G62xf0Sky",
+          "title": "Mamma Mia!",
+          "fit": 11,
+          "similarity": 0.4435530576377819,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkRVaFuP",
+          "title": "Abba Voyage - VIP Premium Package",
+          "fit": 11,
+          "similarity": 0.4451523325222513,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_AGkmH_ASw",
+          "title": "ABBA Voyage",
+          "fit": 15,
+          "similarity": 0.4587329132323387,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkzK6JJP",
+          "title": "From The Heart",
+          "fit": 7,
+          "similarity": 0.42900126874871103,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_7GkSIdJtg",
+          "title": "Burlesque",
+          "fit": 16,
+          "similarity": 0.46266051884338144,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfAGkeMSKuR",
+          "title": "The Mousetrap",
+          "fit": 13,
+          "similarity": 0.4500295560547818,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfNGkewK5QY",
+          "title": "Heated Rivalry: The Unauthorized Musical Parody",
+          "fit": 17,
+          "similarity": 0.46700785815917095,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vHZ_3DHlfzG",
+          "title": "Titanique",
+          "fit": 9,
+          "similarity": 0.4346122492327436,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_3GkBgMStP",
+          "title": "Oh Mary!",
+          "fit": 6,
+          "similarity": 0.42215520367446563,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkfxGketX0lO",
+          "title": "Inala",
+          "fit": 16,
+          "similarity": 0.46339641629719985,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AMZkueGkeUvBGJ",
+          "title": "SIX The Musical",
+          "fit": 10,
+          "similarity": 0.4383555774884366,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdjZ_KGkMoHfTo",
+          "title": "Magic Mike Live!",
+          "fit": 6,
+          "similarity": 0.4228944911874983,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AUZkugGkesAbk2",
+          "title": "Amon Amarth",
+          "fit": 7,
+          "similarity": 0.4293471137398776,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_8Gkw0Xwr7",
+          "title": "Saracens V Bristol Bears",
+          "fit": 0,
+          "similarity": 0.3928413954406213,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZkfUGkesxInZ",
+          "title": "Misfits Boxing: Joey Essex vs Dapper Laughs (Daniel O'Reilly)",
+          "fit": 2,
+          "similarity": 0.4062241562683011,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZ_6KH3kN5",
+          "title": "Fear Factory",
+          "fit": 2,
+          "similarity": 0.4082821339128081,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOg-",
+          "title": "Myles Sanko",
+          "fit": 8,
+          "similarity": 0.43323170457671395,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdFZ_7GkwlMOgW",
+          "title": "Myles Sanko - Restaurant",
+          "fit": 2,
+          "similarity": 0.4074388463629252,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AdfZ_eGkDH4Fl-",
+          "title": "Mamma Mia! The Party",
+          "fit": 9,
+          "similarity": 0.435593701316364,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:1AgZku3Gkd96avn",
+          "title": "Westlife 25 - The Anniversary World Tour",
+          "fit": 6,
+          "similarity": 0.4240728018117334,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dzZbiMgk-So",
+          "title": "Serena Terry: Therapy",
+          "fit": 6,
+          "similarity": 0.42209872319303426,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17FYv0G62Va9ogc",
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "fit": 15,
+          "similarity": 0.4616730693182422,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "city": "New York",
+      "device": "mobile Chromium",
+      "category": "sports",
+      "interest": "football, baseball, live sports",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 23,
+        "normalizedCount": 23,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 23
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 1,
+        "inputCount": 19,
+        "cacheHits": 1,
+        "latencyMs": 18031,
+        "semanticCount": 23,
+        "fallbackCount": 0,
+        "submitLatencyMs": 2867,
+        "completionLatencyMs": 18030,
+        "httpRequestCount": 6,
+        "pollCount": 5
+      },
+      "userFlowLatencyMs": 20144,
+      "shown": 5,
+      "uniqueIds": 23,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
+          "score": "WorthGoing Score 48 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/isaiah-falls-presents-lvrs-paradise-side-new-york-new-york-10-10-2026/event/000064CCE480C120"
+        },
+        {
+          "title": "The Nite Church Presents The Red Party: STRANGE BOUTIQUE LIVE!",
+          "score": "WorthGoing Score 47 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/the-nite-church-presents-the-red-new-york-new-york-10-10-2026/event/00006518D353B200"
+        },
+        {
+          "title": "A Ghost in Your Ear",
+          "score": "WorthGoing Score 46 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/a-ghost-in-your-ear-new-york-new-york-10-10-2026/event/300064F5DD76A069"
+        },
+        {
+          "title": "A Ghost in Your Ear",
+          "score": "WorthGoing Score 46 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/a-ghost-in-your-ear-new-york-new-york-10-10-2026/event/300064F5DD78A070"
+        },
+        {
+          "title": "Slam Frank",
+          "score": "WorthGoing Score 46 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/slam-frank-new-york-new-york-10-10-2026/event/300064C9E2088AB7"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:17GZv0G62rKGd9p",
+          "title": "Perfect Crime",
+          "fit": 0,
+          "similarity": 0.372629348980199,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExeFnM",
+          "title": "Slam Frank",
+          "fit": 0,
+          "similarity": 0.3579413689170865,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-NF",
+          "title": "Aladdin",
+          "fit": 0,
+          "similarity": 0.34941669067151426,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qqnvt",
+          "title": "A Ghost in Your Ear",
+          "fit": 0,
+          "similarity": 0.31618535770326234,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3K7y3R8",
+          "title": "advik, Devika, prat.",
+          "fit": 0,
+          "similarity": 0.3996623233244748,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62r4NdEY",
+          "title": "Singfeld! A Musical About Nothing!",
+          "fit": 0,
+          "similarity": 0.3627459497045677,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExvFnS",
+          "title": "Slam Frank",
+          "fit": 0,
+          "similarity": 0.3579413689170865,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_7rmEKO0",
+          "title": "CHRONO TRIGGER Orchestra Concert: Melodies Across Time",
+          "fit": 0,
+          "similarity": 0.3737124483543366,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_6WVQ3wn",
+          "title": "San Holo presents TRUE LOVE IN A MADE UP WORLD",
+          "fit": 0,
+          "similarity": 0.3607870983165634,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_GS0OG7O",
+          "title": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
+          "fit": 8,
+          "similarity": 0.43033182723344265,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-N1",
+          "title": "Aladdin",
+          "fit": 0,
+          "similarity": 0.34941669067151426,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rK5d9u",
+          "title": "Perfect Crime",
+          "fit": 0,
+          "similarity": 0.372629348980199,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dYZ_8CAw-5m",
+          "title": "Steve Lacy: Oh yeah? Tour",
+          "fit": 0,
+          "similarity": 0.3581018011984978,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_5nf4xsb",
+          "title": "THE CHICKS - TAKING THE LONG WAY",
+          "fit": 0,
+          "similarity": 0.36817618697986837,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_dfAVb5L",
+          "title": "Harry Styles: Together, Together",
+          "fit": 0,
+          "similarity": 0.39612502381714554,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_55pgROV",
+          "title": "Faux Real",
+          "fit": 0,
+          "similarity": 0.37456551794437387,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGFbVrPcvA_",
+          "title": "Tony Vega",
+          "fit": 0,
+          "similarity": 0.3718822947689863,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vv1AdZkotGkeE8Zsb",
+          "title": "LPR Presents: The Buena Vista Orchestra",
+          "fit": 0,
+          "similarity": 0.3805718851838265,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rfwSx5",
+          "title": "Friends! The Musical Parody (New York)",
+          "fit": 0,
+          "similarity": 0.37461112430147736,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qr1vY",
+          "title": "A Ghost in Your Ear",
+          "fit": 0,
+          "similarity": 0.31618535770326234,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vVZ_GwtEFDl",
+          "title": "The Great Gatsby Party - New York",
+          "fit": 0,
+          "similarity": 0.36010127298702543,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3lsh7oM",
+          "title": "Reggaetón Y2K (18+)",
+          "fit": 1,
+          "similarity": 0.4025567428322058,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_oNKfDFZ",
+          "title": "The Nite Church Presents The Red Party: STRANGE BOUTIQUE LIVE!",
+          "fit": 3,
+          "similarity": 0.41275632951556973,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "city": "New York",
+      "device": "mobile Chromium",
+      "category": "music",
+      "interest": "live music, jazz and soul concerts",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 23,
+        "normalizedCount": 23,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 23
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 0,
+        "inputCount": 0,
+        "cacheHits": 20,
+        "latencyMs": 2,
+        "semanticCount": 23,
+        "fallbackCount": 0
+      },
+      "userFlowLatencyMs": 3530,
+      "shown": 5,
+      "uniqueIds": 23,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "CHRONO TRIGGER Orchestra Concert: Melodies Across Time",
+          "score": "WorthGoing Score 55 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/chrono-trigger-orchestra-concert-melodies-across-new-york-new-york-10-10-2026/event/3B006447AE9D3824"
+        },
+        {
+          "title": "Harry Styles: Together, Together",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/harry-styles-together-together-new-york-new-york-10-10-2026/event/3B00643505D182DF"
+        },
+        {
+          "title": "Steve Lacy: Oh yeah? Tour",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/steve-lacy-oh-yeah-tour-new-york-new-york-10-10-2026/event/3C00650385CA12EE"
+        },
+        {
+          "title": "LPR Presents: The Buena Vista Orchestra",
+          "score": "WorthGoing Score 54 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/lpr-presents-the-buena-vista-orchestra-new-york-new-york-10-10-2026/event/03006469A7400C58"
+        },
+        {
+          "title": "advik, Devika, prat.",
+          "score": "WorthGoing Score 53 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/advik-devika-prat-new-york-new-york-10-10-2026/event/00006524C4E52BD0"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:17GZv0G62rKGd9p",
+          "title": "Perfect Crime",
+          "fit": 0,
+          "similarity": 0.39837885361121633,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExeFnM",
+          "title": "Slam Frank",
+          "fit": 0,
+          "similarity": 0.3697783513342226,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-NF",
+          "title": "Aladdin",
+          "fit": 5,
+          "similarity": 0.41886755437364304,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qqnvt",
+          "title": "A Ghost in Your Ear",
+          "fit": 6,
+          "similarity": 0.42577572393249796,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3K7y3R8",
+          "title": "advik, Devika, prat.",
+          "fit": 21,
+          "similarity": 0.48227133653639925,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62r4NdEY",
+          "title": "Singfeld! A Musical About Nothing!",
+          "fit": 6,
+          "similarity": 0.4231735521089774,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExvFnS",
+          "title": "Slam Frank",
+          "fit": 0,
+          "similarity": 0.3697783513342226,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_7rmEKO0",
+          "title": "CHRONO TRIGGER Orchestra Concert: Melodies Across Time",
+          "fit": 28,
+          "similarity": 0.5131204753505788,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_6WVQ3wn",
+          "title": "San Holo presents TRUE LOVE IN A MADE UP WORLD",
+          "fit": 17,
+          "similarity": 0.4693479272627837,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_GS0OG7O",
+          "title": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
+          "fit": 22,
+          "similarity": 0.48836740306158805,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-N1",
+          "title": "Aladdin",
+          "fit": 5,
+          "similarity": 0.41886755437364304,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rK5d9u",
+          "title": "Perfect Crime",
+          "fit": 0,
+          "similarity": 0.39837885361121633,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dYZ_8CAw-5m",
+          "title": "Steve Lacy: Oh yeah? Tour",
+          "fit": 24,
+          "similarity": 0.49589392721920583,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_5nf4xsb",
+          "title": "THE CHICKS - TAKING THE LONG WAY",
+          "fit": 15,
+          "similarity": 0.4618099711497562,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_dfAVb5L",
+          "title": "Harry Styles: Together, Together",
+          "fit": 25,
+          "similarity": 0.49873993373141084,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_55pgROV",
+          "title": "Faux Real",
+          "fit": 13,
+          "similarity": 0.4514969308375946,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGFbVrPcvA_",
+          "title": "Tony Vega",
+          "fit": 13,
+          "similarity": 0.4501652679565542,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vv1AdZkotGkeE8Zsb",
+          "title": "LPR Presents: The Buena Vista Orchestra",
+          "fit": 25,
+          "similarity": 0.5002677426726105,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rfwSx5",
+          "title": "Friends! The Musical Parody (New York)",
+          "fit": 10,
+          "similarity": 0.4395251690181873,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qr1vY",
+          "title": "A Ghost in Your Ear",
+          "fit": 6,
+          "similarity": 0.42577572393249796,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vVZ_GwtEFDl",
+          "title": "The Great Gatsby Party - New York",
+          "fit": 7,
+          "similarity": 0.42825895042312406,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3lsh7oM",
+          "title": "Reggaetón Y2K (18+)",
+          "fit": 16,
+          "similarity": 0.4641731693566351,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_oNKfDFZ",
+          "title": "The Nite Church Presents The Red Party: STRANGE BOUTIQUE LIVE!",
+          "fit": 21,
+          "similarity": 0.485486244826709,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "city": "New York",
+      "device": "mobile Chromium",
+      "category": "art",
+      "interest": "art exhibitions, architecture and museums",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 23,
+        "normalizedCount": 23,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 23
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 0,
+        "inputCount": 0,
+        "cacheHits": 20,
+        "latencyMs": 2,
+        "semanticCount": 23,
+        "fallbackCount": 0
+      },
+      "userFlowLatencyMs": 2624,
+      "shown": 5,
+      "uniqueIds": 23,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "Aladdin",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/aladdin-new-york-new-york-10-10-2026/event/030064AEEB4A18CA"
+        },
+        {
+          "title": "Aladdin",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/aladdin-new-york-new-york-10-10-2026/event/030064AEEB4A18C8"
+        },
+        {
+          "title": "Friends! The Musical Parody (New York)",
+          "score": "WorthGoing Score 49 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/friends-the-musical-parody-new-york-new-york-new-york-10-10-2026/event/300064F794CB388B"
+        },
+        {
+          "title": "advik, Devika, prat.",
+          "score": "WorthGoing Score 49 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/advik-devika-prat-new-york-new-york-10-10-2026/event/00006524C4E52BD0"
+        },
+        {
+          "title": "LPR Presents: The Buena Vista Orchestra",
+          "score": "WorthGoing Score 49 out of 100",
+          "verdict": "Skip",
+          "sourceUrl": "https://www.ticketmaster.com/lpr-presents-the-buena-vista-orchestra-new-york-new-york-10-10-2026/event/03006469A7400C58"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:17GZv0G62rKGd9p",
+          "title": "Perfect Crime",
+          "fit": 8,
+          "similarity": 0.43370898084462833,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExeFnM",
+          "title": "Slam Frank",
+          "fit": 0,
+          "similarity": 0.37709205766667914,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-NF",
+          "title": "Aladdin",
+          "fit": 13,
+          "similarity": 0.4539381009837471,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qqnvt",
+          "title": "A Ghost in Your Ear",
+          "fit": 3,
+          "similarity": 0.413674631402559,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3K7y3R8",
+          "title": "advik, Devika, prat.",
+          "fit": 8,
+          "similarity": 0.4321454601253327,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62r4NdEY",
+          "title": "Singfeld! A Musical About Nothing!",
+          "fit": 1,
+          "similarity": 0.4057881953110734,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExvFnS",
+          "title": "Slam Frank",
+          "fit": 0,
+          "similarity": 0.37709205766667914,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_7rmEKO0",
+          "title": "CHRONO TRIGGER Orchestra Concert: Melodies Across Time",
+          "fit": 8,
+          "similarity": 0.43194722334916075,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_6WVQ3wn",
+          "title": "San Holo presents TRUE LOVE IN A MADE UP WORLD",
+          "fit": 0,
+          "similarity": 0.3925747070280493,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_GS0OG7O",
+          "title": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
+          "fit": 1,
+          "similarity": 0.403081302720632,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-N1",
+          "title": "Aladdin",
+          "fit": 13,
+          "similarity": 0.4539381009837471,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rK5d9u",
+          "title": "Perfect Crime",
+          "fit": 8,
+          "similarity": 0.43370898084462833,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dYZ_8CAw-5m",
+          "title": "Steve Lacy: Oh yeah? Tour",
+          "fit": 4,
+          "similarity": 0.4177369003274393,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_5nf4xsb",
+          "title": "THE CHICKS - TAKING THE LONG WAY",
+          "fit": 3,
+          "similarity": 0.41297443625945224,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_dfAVb5L",
+          "title": "Harry Styles: Together, Together",
+          "fit": 8,
+          "similarity": 0.43160808635423403,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_55pgROV",
+          "title": "Faux Real",
+          "fit": 0,
+          "similarity": 0.35932619604474747,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGFbVrPcvA_",
+          "title": "Tony Vega",
+          "fit": 0,
+          "similarity": 0.3929490677989865,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vv1AdZkotGkeE8Zsb",
+          "title": "LPR Presents: The Buena Vista Orchestra",
+          "fit": 12,
+          "similarity": 0.4472386971244966,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rfwSx5",
+          "title": "Friends! The Musical Parody (New York)",
+          "fit": 10,
+          "similarity": 0.43904869009123615,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qr1vY",
+          "title": "A Ghost in Your Ear",
+          "fit": 3,
+          "similarity": 0.413674631402559,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vVZ_GwtEFDl",
+          "title": "The Great Gatsby Party - New York",
+          "fit": 0,
+          "similarity": 0.3669667628908439,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3lsh7oM",
+          "title": "Reggaetón Y2K (18+)",
+          "fit": 0,
+          "similarity": 0.3573680855120523,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_oNKfDFZ",
+          "title": "The Nite Church Presents The Red Party: STRANGE BOUTIQUE LIVE!",
+          "fit": 0,
+          "similarity": 0.389916383184879,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    },
+    {
+      "city": "New York",
+      "device": "mobile Chromium",
+      "category": "chinese",
+      "interest": "城市探索、建筑、艺术展览",
+      "httpStatus": 200,
+      "dataMode": "live",
+      "ticketmaster": {
+        "rawCount": 23,
+        "normalizedCount": 23,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 23
+      },
+      "semantic": {
+        "model": "Bge_M3_FP16",
+        "requestCount": 0,
+        "inputCount": 0,
+        "cacheHits": 20,
+        "latencyMs": 2,
+        "semanticCount": 23,
+        "fallbackCount": 0
+      },
+      "userFlowLatencyMs": 2635,
+      "shown": 5,
+      "uniqueIds": 23,
+      "fallbackReasons": [],
+      "cards": [
+        {
+          "title": "CHRONO TRIGGER Orchestra Concert: Melodies Across Time",
+          "score": "WorthGoing Score 51 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/chrono-trigger-orchestra-concert-melodies-across-new-york-new-york-10-10-2026/event/3B006447AE9D3824"
+        },
+        {
+          "title": "Friends! The Musical Parody (New York)",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/friends-the-musical-parody-new-york-new-york-new-york-10-10-2026/event/300064F794CB388B"
+        },
+        {
+          "title": "Perfect Crime",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/perfect-crime-new-york-new-york-10-10-2026/event/300064F7932C35CD"
+        },
+        {
+          "title": "Perfect Crime",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/perfect-crime-new-york-new-york-10-10-2026/event/300064F7933035D6"
+        },
+        {
+          "title": "Harry Styles: Together, Together",
+          "score": "WorthGoing Score 50 out of 100",
+          "verdict": "Go if nearby",
+          "sourceUrl": "https://www.ticketmaster.com/harry-styles-together-together-new-york-new-york-10-10-2026/event/3B00643505D182DF"
+        }
+      ],
+      "candidateFits": [
+        {
+          "id": "ticketmaster:17GZv0G62rKGd9p",
+          "title": "Perfect Crime",
+          "fit": 14,
+          "similarity": 0.4543715867635824,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExeFnM",
+          "title": "Slam Frank",
+          "fit": 1,
+          "similarity": 0.40295682305813807,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-NF",
+          "title": "Aladdin",
+          "fit": 13,
+          "similarity": 0.45232049792679185,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qqnvt",
+          "title": "A Ghost in Your Ear",
+          "fit": 2,
+          "similarity": 0.4097081639286942,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3K7y3R8",
+          "title": "advik, Devika, prat.",
+          "fit": 12,
+          "similarity": 0.44925701459509504,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62r4NdEY",
+          "title": "Singfeld! A Musical About Nothing!",
+          "fit": 7,
+          "similarity": 0.42883264331587884,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G6GExvFnS",
+          "title": "Slam Frank",
+          "fit": 1,
+          "similarity": 0.40295682305813807,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_7rmEKO0",
+          "title": "CHRONO TRIGGER Orchestra Concert: Melodies Across Time",
+          "fit": 16,
+          "similarity": 0.4642003168833531,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_6WVQ3wn",
+          "title": "San Holo presents TRUE LOVE IN A MADE UP WORLD",
+          "fit": 6,
+          "similarity": 0.42398377681939736,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_GS0OG7O",
+          "title": "ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR",
+          "fit": 14,
+          "similarity": 0.4542846829404529,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vvG1GZ_1Dl3-N1",
+          "title": "Aladdin",
+          "fit": 13,
+          "similarity": 0.45232049792679185,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rK5d9u",
+          "title": "Perfect Crime",
+          "fit": 14,
+          "similarity": 0.4543715867635824,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5dYZ_8CAw-5m",
+          "title": "Steve Lacy: Oh yeah? Tour",
+          "fit": 14,
+          "similarity": 0.4547395780303854,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_5nf4xsb",
+          "title": "THE CHICKS - TAKING THE LONG WAY",
+          "fit": 13,
+          "similarity": 0.4510991439803354,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5diZ_dfAVb5L",
+          "title": "Harry Styles: Together, Together",
+          "fit": 12,
+          "similarity": 0.4489596096153585,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_55pgROV",
+          "title": "Faux Real",
+          "fit": 0,
+          "similarity": 0.401120878058778,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGFbVrPcvA_",
+          "title": "Tony Vega",
+          "fit": 2,
+          "similarity": 0.4092313478743905,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:vv1AdZkotGkeE8Zsb",
+          "title": "LPR Presents: The Buena Vista Orchestra",
+          "fit": 14,
+          "similarity": 0.45577062618394354,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G62rfwSx5",
+          "title": "Friends! The Musical Parody (New York)",
+          "fit": 14,
+          "similarity": 0.4567437842682827,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:17GZv0G629qr1vY",
+          "title": "A Ghost in Your Ear",
+          "fit": 2,
+          "similarity": 0.4097081639286942,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:G5vVZ_GwtEFDl",
+          "title": "The Great Gatsby Party - New York",
+          "fit": 0,
+          "similarity": 0.39607800916076674,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_3lsh7oM",
+          "title": "Reggaetón Y2K (18+)",
+          "fit": 3,
+          "similarity": 0.41182694843723966,
+          "mode": "semantic"
+        },
+        {
+          "id": "ticketmaster:k7vGF_oNKfDFZ",
+          "title": "The Nite Church Presents The Red Party: STRANGE BOUTIQUE LIVE!",
+          "fit": 7,
+          "similarity": 0.4274099792631054,
+          "mode": "semantic"
+        }
+      ],
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "browserCalledUpstream": false
+    }
+  ]
+}

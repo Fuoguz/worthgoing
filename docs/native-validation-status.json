@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-03",
+  "phase": "native-deapi-batch-migration",
+  "status": "complete",
+  "stopCondition": "A",
+  "productionEndpoint": "https://api.deapi.ai/api/v2/embeddings",
+  "model": "Bge_M3_FP16",
+  "dimensions": 1024,
+  "ticketmasterCandidateLimit": 50,
+  "lint": "passed",
+  "productionBuild": "passed",
+  "unitTests": { "passed": 93, "originalRetained": 75, "nativeAdded": 18, "skipped": 0 },
+  "browserTests": { "passed": 20, "desktop": 10, "mobileChromium": 10, "skipped": 0 },
+  "nativeCapacity": { "sizes": [2, 10, 14, 25, 51], "allPassed": true, "rateLimited": false, "record": "native-capacity-validation.json" },
+  "liveUserFlows": { "passed": 8, "cities": ["London", "New York"], "interests": ["sports", "music", "art", "chinese"], "fallbackCount": 0, "record": "native-live-flow.json" },
+  "security": { "privateEnvironmentUnchanged": true, "projectSecretOutsideLocalEnv": false, "clientSecretCheck": "passed", "browserCalledUpstream": false, "gitRepositoryExists": false },
+  "limits": { "submitPerMinute": 10, "submitPerDay": 500, "jobsPerMinute": 50, "jobsPerDay": 200 },
+  "remainingRisks": ["Async queue latency and independent job-status quota; concurrency not tested", "Commercial event coverage and missing price/duration", "Original keyword fallback does not semantically understand freeform text"]
+}

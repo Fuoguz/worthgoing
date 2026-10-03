@@ -1,0 +1,130 @@
+{
+  "endpoint": "https://oai.deapi.ai/v1/embeddings",
+  "model": "Bge_M3_FP16",
+  "requestCount": 3,
+  "inputCount": 14,
+  "latencyMs": 9338,
+  "anchors": [
+    [
+      0.4,
+      0
+    ],
+    [
+      0.6,
+      50
+    ],
+    [
+      0.75,
+      90
+    ],
+    [
+      1,
+      100
+    ]
+  ],
+  "cases": [
+    {
+      "id": "A",
+      "kind": "high",
+      "user": "technology, immersive experiences",
+      "event": "Technology and interactive digital art exhibition",
+      "similarity": 0.6800428864072176,
+      "interestFit": 71,
+      "dimensions": {
+        "user": 1024,
+        "event": 1024
+      },
+      "measuredBatchLatencyMs": 10960
+    },
+    {
+      "id": "B",
+      "kind": "high",
+      "user": "architecture, urban exploration",
+      "event": "Architecture and city design exhibition",
+      "similarity": 0.6447170957931957,
+      "interestFit": 62,
+      "dimensions": {
+        "user": 1024,
+        "event": 1024
+      },
+      "measuredBatchLatencyMs": 10960
+    },
+    {
+      "id": "C",
+      "kind": "low",
+      "user": "architecture and museums",
+      "event": "Premier League football match",
+      "similarity": 0.3457930352945658,
+      "interestFit": 0,
+      "dimensions": {
+        "user": 1024,
+        "event": 1024
+      },
+      "measuredBatchLatencyMs": 14893
+    },
+    {
+      "id": "D",
+      "kind": "cross-language-high",
+      "user": "城市探索、建筑、艺术展览",
+      "event": "Architecture and urban art exhibition",
+      "similarity": 0.7178957169012966,
+      "interestFit": 81,
+      "dimensions": {
+        "user": 1024,
+        "event": 1024
+      },
+      "measuredBatchLatencyMs": 14893
+    },
+    {
+      "id": "E",
+      "kind": "cross-language-low",
+      "user": "科技和互动展览",
+      "event": "Baseball game",
+      "similarity": 0.3954156993575796,
+      "interestFit": 0,
+      "dimensions": {
+        "user": 1024,
+        "event": 1024
+      },
+      "measuredBatchLatencyMs": 14893
+    },
+    {
+      "id": "step8-high",
+      "kind": "high",
+      "user": "architecture, urban exploration, exhibitions",
+      "event": "Architecture exhibition, Arts & Theatre",
+      "similarity": 0.7517384773031166,
+      "interestFit": 90,
+      "dimensions": {
+        "user": 1024,
+        "event": 1024
+      },
+      "measuredBatchLatencyMs": 9338
+    },
+    {
+      "id": "step8-medium",
+      "kind": "medium",
+      "user": "technology and interactive exhibitions",
+      "event": "Science museum event",
+      "similarity": 0.6016090885478341,
+      "interestFit": 50,
+      "dimensions": {
+        "user": 1024,
+        "event": 1024
+      },
+      "measuredBatchLatencyMs": 9338
+    }
+  ],
+  "scope": "Exact controlled examples provided by the user; not live event facts. No embedding vectors persisted.",
+  "mapping": "bge-m3-calibration-v1",
+  "verificationAttempts": {
+    "httpRequests": 6,
+    "successfulRequests": 4,
+    "failedRequests": 2,
+    "submittedTextCount": 44,
+    "formalCalibrationTextCount": 14,
+    "diagnosticProbeTextCount": 2,
+    "rejectedBatchTextCount": 28,
+    "accountingNote": "requestCount above counts successful formal calibration batches only. Gateway 429 batches can consume allowance before failing; billable job counts were not reported and are not inferred."
+  }
+}

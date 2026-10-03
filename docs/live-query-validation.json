@@ -1,0 +1,166 @@
+{
+  "desktop": [
+    {
+      "city": "London",
+      "queryDate": "2026-10-10",
+      "window": "12:00–23:30 event-local",
+      "dataMode": "live",
+      "reason": null,
+      "diagnostics": {
+        "rawCount": 50,
+        "normalizedCount": 50,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 100
+      },
+      "shown": 5,
+      "coverage": {
+        "priceRanges": 0,
+        "venue": 50,
+        "coordinates": 50,
+        "classifications": 50,
+        "genres": 50,
+        "description": 0,
+        "duration": 0,
+        "timezone": 50,
+        "dateTBD": 0,
+        "dateTBA": 0,
+        "timeTBA": 0,
+        "approximate": 0
+      },
+      "cards": [
+        {
+          "title": "Disney's THE LION KING",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://theatre.ticketmaster.co.uk/book/1DR6R-lyceum-theatre-london-disneys-the-lion-king/#perf=1DR6R-59X&date=2026-10-10&time=2.30PM"
+        },
+        {
+          "title": "IMEHO - An Intimate Experience with Erykah Badu",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://www.ticketmaster.co.uk/imeho-an-intimate-experience-with-erykah-london-10-10-2026/event/230064FD095D1D6D"
+        },
+        {
+          "title": "Mamma Mia!",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://theatre.ticketmaster.co.uk/book/1H4KU-mamma-mia-sept-25/#perf=1H4KU-188&date=2026-10-10&time=3.00PM"
+        },
+        {
+          "title": "Faulty Towers the Dining Experience",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/#perf=1GLTR-20W&date=2026-10-10&time=1.30PM"
+        },
+        {
+          "title": "Oliver!",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://theatre.ticketmaster.co.uk/book/1H4KN-oliver/#perf=1H4KN-180&date=2026-10-10&time=2.30PM"
+        }
+      ],
+      "sourceCheck": {
+        "expectedUrl": "https://theatre.ticketmaster.co.uk/book/1DR6R-lyceum-theatre-london-disneys-the-lion-king/#perf=1DR6R-59X&date=2026-10-10&time=2.30PM",
+        "openedUrl": "https://theatre.ticketmaster.co.uk/book/1DR6R-lyceum-theatre-london-disneys-the-lion-king/#perf=1DR6R-59X&date=2026-10-10&time=2.30PM",
+        "status": null,
+        "title": "Book tickets for Disney’s The Lion King",
+        "bodyPreview": "Disney’s The Lion King\n Lyceum Theatre, London\n    \n    "
+      },
+      "uniqueIds": 50,
+      "sourceUrls": 50,
+      "clientCalledDiscoveryDirectly": false,
+      "horizontalOverflow": false,
+      "pageErrors": []
+    },
+    {
+      "city": "New York",
+      "queryDate": "2026-10-10",
+      "window": "12:00–23:30 event-local",
+      "dataMode": "live",
+      "reason": null,
+      "diagnostics": {
+        "rawCount": 23,
+        "normalizedCount": 23,
+        "duplicatesRemoved": 0,
+        "rejectedCount": 0,
+        "totalAvailable": 23
+      },
+      "shown": 5,
+      "coverage": {
+        "priceRanges": 0,
+        "venue": 23,
+        "coordinates": 23,
+        "classifications": 23,
+        "genres": 22,
+        "description": 0,
+        "duration": 0,
+        "timezone": 23,
+        "dateTBD": 0,
+        "dateTBA": 0,
+        "timeTBA": 0,
+        "approximate": 0
+      },
+      "cards": [
+        {
+          "title": "A Ghost in Your Ear",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://www.ticketmaster.com/a-ghost-in-your-ear-new-york-new-york-10-10-2026/event/300064F5DD76A069"
+        },
+        {
+          "title": "A Ghost in Your Ear",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://www.ticketmaster.com/a-ghost-in-your-ear-new-york-new-york-10-10-2026/event/300064F5DD78A070"
+        },
+        {
+          "title": "Slam Frank",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://www.ticketmaster.com/slam-frank-new-york-new-york-10-10-2026/event/300064C9E2088AB7"
+        },
+        {
+          "title": "Slam Frank",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://www.ticketmaster.com/slam-frank-new-york-new-york-10-10-2026/event/300064C9E2048AB3"
+        },
+        {
+          "title": "The Great Gatsby Party - New York",
+          "score": "WorthGoing Score 81 out of 100",
+          "verdict": "Go if nearby",
+          "source": "https://on.fgtix.com/trk/YbEJ"
+        }
+      ],
+      "sourceCheck": {
+        "expectedUrl": "https://www.ticketmaster.com/a-ghost-in-your-ear-new-york-new-york-10-10-2026/event/300064F5DD76A069",
+        "openedUrl": "https://www.ticketmaster.com/a-ghost-in-your-ear-new-york-new-york-10-10-2026/event/300064F5DD76A069",
+        "status": null,
+        "title": "",
+        "bodyPreview": ""
+      },
+      "uniqueIds": 23,
+      "sourceUrls": 23,
+      "clientCalledDiscoveryDirectly": false,
+      "horizontalOverflow": false,
+      "pageErrors": [],
+      "independentSourceVerification": {
+        "method": "Official canonical page read and in-app browser inventory",
+        "title": "A Ghost in Your Ear Tickets Sat, Oct 10, 2026 New York, NY | Ticketmaster",
+        "confirmedFacts": [
+          "A Ghost in Your Ear",
+          "Saturday October 10 2026, 5:00 PM",
+          "Audibles Minetta Lane Theatre, New York"
+        ],
+        "limitation": "Headless popup opened the correct URL but returned blank content. Separate official page content and in-app browser title verified existence; no HTTP status assertion."
+      }
+    }
+  ],
+  "mobile": {
+    "city": "New York",
+    "dataMode": "live",
+    "shown": 5,
+    "horizontalOverflow": false
+  }
+}

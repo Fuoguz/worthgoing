@@ -1,0 +1,853 @@
+{
+  "checkedAt": "2026-10-03T05:04:53.016Z",
+  "model": "Bge_M3_FP16",
+  "initialSchemaProbe": {
+    "texts": 2,
+    "accepted": true,
+    "completed": false,
+    "requestId": "5b1ab2e9-f956-46ef-926a-7f9cc7dce3a0",
+    "embeddingCount": null,
+    "dimensions": [],
+    "polls": [
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 49,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 48,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 47,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 46,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 45,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 44,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 43,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 42,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "pending",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 41,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 40,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 39,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 38,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 37,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 36,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 35,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 34,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 33,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 32,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 31,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 30,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 29,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 28,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 27,
+          "X-RateLimit-Reset": 1791003583,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 49,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 48,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 47,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 46,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 45,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 44,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 43,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 42,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 41,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      },
+      {
+        "httpStatus": 200,
+        "status": "done",
+        "limits": {
+          "X-RateLimit-Limit": 50,
+          "X-RateLimit-Remaining": 40,
+          "X-RateLimit-Reset": 1791003644,
+          "Retry-After": null
+        }
+      }
+    ],
+    "rateLimited": false,
+    "httpStatus": 200,
+    "submitLatencyMs": 2108,
+    "limits": {
+      "X-RateLimit-Limit": 10,
+      "X-RateLimit-Remaining": 9,
+      "X-RateLimit-Reset": 1791003582,
+      "Retry-After": null
+    },
+    "submitShape": {
+      "data": {
+        "request_id": "string"
+      }
+    },
+    "jobShape": {
+      "data": {
+        "status": "string",
+        "preview": "object",
+        "result_url": "string",
+        "results_alt_formats": "object",
+        "result": "string",
+        "metadata": "object",
+        "progress": "number",
+        "error_code": "object",
+        "error_reason": "object",
+        "retryable": "object",
+        "refunded": "object",
+        "failed_at": "object",
+        "price": {
+          "amount": "number",
+          "is_estimated": "boolean"
+        },
+        "prompt_boosted": "boolean",
+        "prompt_boost": "object"
+      }
+    },
+    "error": "timeout",
+    "totalCompletionLatencyMs": 91005
+  },
+  "batches": [
+    {
+      "texts": 2,
+      "accepted": true,
+      "completed": true,
+      "requestId": "d4c38257-75e1-42ee-80c8-99e5696bddb2",
+      "embeddingCount": 2,
+      "dimensions": [
+        1024
+      ],
+      "polls": [
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 49,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 48,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "done",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 47,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        }
+      ],
+      "rateLimited": false,
+      "httpStatus": 200,
+      "submitLatencyMs": 2296,
+      "limits": {
+        "X-RateLimit-Limit": 10,
+        "X-RateLimit-Remaining": 9,
+        "X-RateLimit-Reset": 1791003954,
+        "X-RateLimit-Daily-Limit": 500,
+        "X-RateLimit-Daily-Remaining": 460,
+        "Retry-After": null
+      },
+      "submitShape": {
+        "data": {
+          "request_id": "string"
+        }
+      },
+      "jobShape": {
+        "data": {
+          "status": "string",
+          "preview": "object",
+          "result_url": "string",
+          "results_alt_formats": "object",
+          "result": "string",
+          "metadata": "object",
+          "progress": "number",
+          "error_code": "object",
+          "error_reason": "object",
+          "retryable": "object",
+          "refunded": "object",
+          "failed_at": "object",
+          "price": {
+            "amount": "number",
+            "is_estimated": "boolean"
+          },
+          "prompt_boosted": "boolean",
+          "prompt_boost": "object"
+        }
+      },
+      "resultShape": "string",
+      "validVectors": true,
+      "totalCompletionLatencyMs": 9986
+    },
+    {
+      "texts": 10,
+      "accepted": true,
+      "completed": true,
+      "requestId": "d830f5af-9c04-4047-8c05-435dd906c605",
+      "embeddingCount": 10,
+      "dimensions": [
+        1024
+      ],
+      "polls": [
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 46,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 45,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 44,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "processing",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 43,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "done",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 42,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        }
+      ],
+      "rateLimited": false,
+      "httpStatus": 200,
+      "submitLatencyMs": 913,
+      "limits": {
+        "X-RateLimit-Limit": 10,
+        "X-RateLimit-Remaining": 8,
+        "X-RateLimit-Reset": 1791003954,
+        "X-RateLimit-Daily-Limit": 500,
+        "X-RateLimit-Daily-Remaining": 459,
+        "Retry-After": null
+      },
+      "submitShape": {
+        "data": {
+          "request_id": "string"
+        }
+      },
+      "jobShape": {
+        "data": {
+          "status": "string",
+          "preview": "object",
+          "result_url": "string",
+          "results_alt_formats": "object",
+          "result": "string",
+          "metadata": "object",
+          "progress": "number",
+          "error_code": "object",
+          "error_reason": "object",
+          "retryable": "object",
+          "refunded": "object",
+          "failed_at": "object",
+          "price": {
+            "amount": "number",
+            "is_estimated": "boolean"
+          },
+          "prompt_boosted": "boolean",
+          "prompt_boost": "object"
+        }
+      },
+      "resultShape": "string",
+      "validVectors": true,
+      "totalCompletionLatencyMs": 15916
+    },
+    {
+      "texts": 14,
+      "accepted": true,
+      "completed": true,
+      "requestId": "acf892d5-77fb-4b7d-b4df-1fabc8b66d93",
+      "embeddingCount": 14,
+      "dimensions": [
+        1024
+      ],
+      "polls": [
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 41,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 40,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "pending",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 39,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "processing",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 38,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "done",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 37,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        }
+      ],
+      "rateLimited": false,
+      "httpStatus": 200,
+      "submitLatencyMs": 1339,
+      "limits": {
+        "X-RateLimit-Limit": 10,
+        "X-RateLimit-Remaining": 7,
+        "X-RateLimit-Reset": 1791003954,
+        "X-RateLimit-Daily-Limit": 500,
+        "X-RateLimit-Daily-Remaining": 458,
+        "Retry-After": null
+      },
+      "submitShape": {
+        "data": {
+          "request_id": "string"
+        }
+      },
+      "jobShape": {
+        "data": {
+          "status": "string",
+          "preview": "object",
+          "result_url": "string",
+          "results_alt_formats": "object",
+          "result": "string",
+          "metadata": "object",
+          "progress": "number",
+          "error_code": "object",
+          "error_reason": "object",
+          "retryable": "object",
+          "refunded": "object",
+          "failed_at": "object",
+          "price": {
+            "amount": "number",
+            "is_estimated": "boolean"
+          },
+          "prompt_boosted": "boolean",
+          "prompt_boost": "object"
+        }
+      },
+      "resultShape": "string",
+      "validVectors": true,
+      "totalCompletionLatencyMs": 16393
+    },
+    {
+      "texts": 25,
+      "accepted": true,
+      "completed": true,
+      "requestId": "24048bee-26a5-4873-b818-c2db1d079270",
+      "embeddingCount": 25,
+      "dimensions": [
+        1024
+      ],
+      "polls": [
+        {
+          "httpStatus": 200,
+          "status": "processing",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 36,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "done",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 35,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        }
+      ],
+      "rateLimited": false,
+      "httpStatus": 200,
+      "submitLatencyMs": 998,
+      "limits": {
+        "X-RateLimit-Limit": 10,
+        "X-RateLimit-Remaining": 6,
+        "X-RateLimit-Reset": 1791003954,
+        "X-RateLimit-Daily-Limit": 500,
+        "X-RateLimit-Daily-Remaining": 457,
+        "Retry-After": null
+      },
+      "submitShape": {
+        "data": {
+          "request_id": "string"
+        }
+      },
+      "jobShape": {
+        "data": {
+          "status": "string",
+          "preview": "object",
+          "result_url": "string",
+          "results_alt_formats": "object",
+          "result": "string",
+          "metadata": "object",
+          "progress": "number",
+          "error_code": "object",
+          "error_reason": "object",
+          "retryable": "object",
+          "refunded": "object",
+          "failed_at": "object",
+          "price": {
+            "amount": "number",
+            "is_estimated": "boolean"
+          },
+          "prompt_boosted": "boolean",
+          "prompt_boost": "object"
+        }
+      },
+      "resultShape": "string",
+      "validVectors": true,
+      "totalCompletionLatencyMs": 5836
+    },
+    {
+      "texts": 51,
+      "accepted": true,
+      "completed": true,
+      "requestId": "646eca79-c4b6-4ea4-a7cb-6380c6dfed49",
+      "embeddingCount": 51,
+      "dimensions": [
+        1024
+      ],
+      "polls": [
+        {
+          "httpStatus": 200,
+          "status": "processing",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 34,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        },
+        {
+          "httpStatus": 200,
+          "status": "done",
+          "limits": {
+            "X-RateLimit-Limit": 50,
+            "X-RateLimit-Remaining": 33,
+            "X-RateLimit-Reset": 1791003956,
+            "X-RateLimit-Daily-Limit": null,
+            "X-RateLimit-Daily-Remaining": null,
+            "Retry-After": null
+          }
+        }
+      ],
+      "rateLimited": false,
+      "httpStatus": 200,
+      "submitLatencyMs": 859,
+      "limits": {
+        "X-RateLimit-Limit": 10,
+        "X-RateLimit-Remaining": 5,
+        "X-RateLimit-Reset": 1791003954,
+        "X-RateLimit-Daily-Limit": 500,
+        "X-RateLimit-Daily-Remaining": 456,
+        "Retry-After": null
+      },
+      "submitShape": {
+        "data": {
+          "request_id": "string"
+        }
+      },
+      "jobShape": {
+        "data": {
+          "status": "string",
+          "preview": "object",
+          "result_url": "string",
+          "results_alt_formats": "object",
+          "result": "string",
+          "metadata": "object",
+          "progress": "number",
+          "error_code": "object",
+          "error_reason": "object",
+          "retryable": "object",
+          "refunded": "object",
+          "failed_at": "object",
+          "price": {
+            "amount": "number",
+            "is_estimated": "boolean"
+          },
+          "prompt_boosted": "boolean",
+          "prompt_boost": "object"
+        }
+      },
+      "resultShape": "string",
+      "validVectors": true,
+      "totalCompletionLatencyMs": 5764
+    }
+  ]
+}
